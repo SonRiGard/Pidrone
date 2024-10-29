@@ -1,0 +1,5 @@
+mpu6050-raspberrypi==1.2
+nrf24==2.0.0
+pigpio==1.78
+smbus==1.1.post2
+spidev==3.6
