@@ -33,4 +33,7 @@
 ```
     make clear
 ```
+    Because of target was activated in makefile will not maintain the activated state once the target completes. To actually work within the environment, you should activate it directly in the terminal using command ``source venv/bin/activate``
+    To deactive ``deactivate ``
+
 
