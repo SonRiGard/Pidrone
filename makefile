@@ -20,9 +20,6 @@ install:
 		echo "requirements.txt not found, skipping."; \
 	fi
 
-	
-	@echo "Setup complete. To activate the environment, use 'source $(VENV_DIR)/bin/activate' "
-
 clear: 
 	@echo "Removing virtual environment"
 	rm -rf $(VENV_DIR)
